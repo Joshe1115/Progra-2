@@ -1,0 +1,7 @@
+pwd  =  ruta donde estamos 
+
+cd Desktop/ = ingresamos a la carpeta escritorio
+
+ls = muestra todo lo que tiene el escritorio
+
+git clone https://github.com/Joshe1115/Progra-2.git
